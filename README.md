@@ -1,6 +1,6 @@
 # 🏋️ FITSTORE — Elite Athlete Intelligence
 
-> **Train Smarter. Perform Better. Become Elite.
+> **Train Smarter. Perform Better. Become Elite.**
 
 FitStore is a modern fitness and sports e-commerce platform designed to bring together **premium fitness products, athlete intelligence, nutrition knowledge, AI-powered tools, research-based fitness content, and a seamless shopping experience** in one ecosystem.
 
@@ -199,6 +199,7 @@ Example content categories:
 
 The blog can also support SEO growth by allowing FitStore to target fitness-related search queries.
 
+---
 
 # 🛒 E-Commerce Experience
 
